@@ -1,6 +1,6 @@
-# Django-Job-Finder
+# JobCompass
 
-#### Job-Finder Built Using :
+#### JobCompass Built Using :
 
 1. Django
 2. Sqlite
